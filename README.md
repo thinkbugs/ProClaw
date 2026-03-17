@@ -99,13 +99,13 @@ ProClaw 提供了构建和管理你数字分体所需的一切。
 📁 项目结构 Project Structure
 
 
-proclaw/
-├── core/                 # 中央指挥逻辑，记忆，规划器 Central command logic, memory, planner
-├── hub/                  # 技能市集 & 智能体工厂 SDK Skill marketplace & Agent factory SDK
-├── agents/               # 预构建和社区智能体库 Library of pre-built and community agents
-├── skills/               # 官方技能插件库 Library of official skill plugins
-├── docs/                 # 完整文档 Comprehensive documentation
-└── examples/             # 示例项目和教程 Example projects and tutorials
+proclaw/<br>
+├── core/                 # 中央指挥逻辑，记忆，规划器 Central command logic, memory, planner<br>
+├── hub/                  # 技能市集 & 智能体工厂 SDK Skill marketplace & Agent factory SDK<br>
+├── agents/               # 预构建和社区智能体库 Library of pre-built and community agents<br>
+├── skills/               # 官方技能插件库 Library of official skill plugins<br>
+├── docs/                 # 完整文档 Comprehensive documentation<br>
+└── examples/             # 示例项目和教程 Example projects and tutorials<br>
 
 
 🔧 如何贡献 How to Contribute
